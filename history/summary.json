@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/piksara.com.ico",
     "slug": "piksara",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.08%",
+    "uptimeDay": "49.62%",
+    "uptimeWeek": "92.80%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "99.08%",
     "time": 1576,
-    "timeDay": 2208,
-    "timeWeek": 1451,
-    "timeMonth": 1633,
+    "timeDay": 0,
+    "timeWeek": 1530,
+    "timeMonth": 1650,
     "timeYear": 1576,
     "dailyMinutesDown": {
-      "2026-09-13": 0
+      "2026-09-14": 172,
+      "2026-09-13": 553
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1138,
-    "timeDay": 1231,
-    "timeWeek": 1103,
-    "timeMonth": 1150,
-    "timeYear": 1138,
+    "time": 1457,
+    "timeDay": 19622,
+    "timeWeek": 3738,
+    "timeMonth": 1750,
+    "timeYear": 1457,
     "dailyMinutesDown": {}
   }
 ]
