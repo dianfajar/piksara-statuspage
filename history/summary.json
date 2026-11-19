@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/piksara.com.ico",
     "slug": "piksara",
     "status": "down",
-    "uptime": "90.32%",
+    "uptime": "90.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.58%",
-    "uptimeYear": "90.32%",
+    "uptimeMonth": "63.37%",
+    "uptimeYear": "90.27%",
     "time": 1711,
     "timeDay": 0,
     "timeWeek": 0,
@@ -18,7 +18,7 @@
     "dailyMinutesDown": {
       "2026-09-14": 307,
       "2026-09-13": 553,
-      "2026-11-19": 235,
+      "2026-11-19": 329,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
@@ -38,18 +38,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dianfajar.com.ico",
     "slug": "dianfajar-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "93.46%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.95%",
     "time": 1088,
-    "timeDay": 328,
+    "timeDay": 0,
     "timeWeek": 339,
     "timeMonth": 1182,
     "timeYear": 1088,
     "dailyMinutesDown": {
-      "2026-11-19": 0
+      "2026-11-19": 94
     }
   }
 ]
